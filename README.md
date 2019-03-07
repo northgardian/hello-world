@@ -1,2 +1,2 @@
 # hello-world
-Beginning Repository
+Hello darkness my old friend!
